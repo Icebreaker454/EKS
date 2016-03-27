@@ -1,0 +1,6 @@
+argparse==1.2.1
+lxml==3.6.0
+pickleDB==0.6.2
+requests==2.9.1
+simplejson==3.8.2
+wsgiref==0.1.2
